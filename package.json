@@ -1,0 +1,14 @@
+{
+  "name": "bookmarklet-jira-now",
+  "version": "0.0.1",
+  "description": "bookmarklet to calculate the time spent field based on an end time.",
+  "main": "index.js",
+  "author": "codemobius@gmail.com",
+  "license": "MIT",
+  "devDependencies": {
+    "bookmarklet-loader": "^1.0.0",
+    "foundation": "^4.2.1-1",
+    "html-webpack-plugin": "^2.22.0",
+    "webpack": "^1.13.2"
+  }
+}
